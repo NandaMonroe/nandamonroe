@@ -1,17 +1,12 @@
 <img src="https://github.com/NandaMonroe/nandamonroe/blob/main/readme-banner.png" />
-<div style="display: flex; flex-direction: column; align-items: center;">
   
-## <img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" alt="Face with Hand Over Mouth" width="30" /> &nbsp; Hey, you found me! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" alt="Face with Hand Over Mouth" width="30" />
-
-🌐 Visit my [Website](https://nandamonroe.vercel.app/) for more information and to get in touch.
-</div>
-
-
 <div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
-
 </div>
+
+<h2 align="center">
+🌐 Visit my [Website](https://nandamonroe.vercel.app/) for more information and to get in touch.
+</h2>
 
 <br/>
 
@@ -19,6 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandamonroe&layout=donut)
 
 <!--
+<img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" alt="Face with Hand Over Mouth" width="30" /> &nbsp; YOU FOUND ME! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" alt="Face with Hand Over Mouth" width="30" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
